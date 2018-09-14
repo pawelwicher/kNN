@@ -1,1 +1,1 @@
-# kNN
+# Digits recognition with kNN
